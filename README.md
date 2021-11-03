@@ -19,6 +19,6 @@ Process and Packages used
 * Define rule to resolve Jsx components with babel-loader
 
 **Step 5 - Configure Webpack to support html, css, scss**
-* npm install html-webpack-plugin css-loader sass-loader file-loader
+* npm install html-webpack-plugin css-loader sass sass-loader file-loader
 * Configure module rules for html, css, scss and files ( images particularly ).
 
